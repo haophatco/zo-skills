@@ -1,13 +1,12 @@
 ---
-name: financial-projection
-description: |
-  description: "Builds 12-month financial projections with revenue scenarios, expense forecasting, and break-even analysis. Use when planning future revenue and expenses for your business."
+name: skill-creator
+description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
 license: Complete terms in LICENSE.txt
 metadata:
   author: Anthropic
   category: External
-allowed-tools: Read Write Glob
 ---
+
 # Skill Creator
 
 This skill provides guidance for creating effective skills.
